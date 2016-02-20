@@ -10,6 +10,3 @@ Cette outils vous aide à adapter le fichier project.mml à vos parametres de ba
 This portability tool performs a couple of text replacements on `project.mml` files that you upload, 
 to facilitate moving from one server to another. It updates either all database references (for PostGIS
 layers), or individual paths (for shapefiles, csv files etc), or both.
-
-https://github.com/rya6453/tilemill-portability
-==============================================
