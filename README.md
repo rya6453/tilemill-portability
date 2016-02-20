@@ -1,3 +1,5 @@
+Traduction en français
+
 tilemill-portability
 ====================
 
